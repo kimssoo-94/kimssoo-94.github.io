@@ -2,6 +2,6 @@
 title: "Tag"
 layout: tags
 permalink: /tags/
-author_profiles: true
+author_profile: true
 sidebar_main: true
 ---
